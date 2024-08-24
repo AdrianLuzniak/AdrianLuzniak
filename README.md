@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Support | Technical Assistance Consultant
 -----------------------------------------
 
-Since 2023, I have been honing my skills in Python programming and version control systems. I also have experience working with Linux, SQL, and upgrading ERP software on client systems. My goal is to specialize in process automation. As part of my professional development, I plan to master Ansible, Bash, Docker, and further advance my Linux administration expertise.
+Since 2023, I have been developing my skills in Python programming and version control systems. I also have experience working with Linux, SQL, and upgrading ERP software on client systems. My goal is to specialize in process automation. As part of my professional development, I plan to master Ansible, Bash, Docker, and further advance my Linux administration expertise.
 
 * 🌍  I'm based in Wrocław, Poland
 * ✉️  You can contact me at [adrian.luzniak98@gmail.com](mailto:adrian.luzniak98@gmail.com)
