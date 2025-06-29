@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 My name is Adrian  
-==============================================================================================================================
 
-# IT Support Specialist with DevOps Focus | Technical Assistance Consultant
-
-Support | Technical Assistance Consultant  
+IT Support Specialist with DevOps Focus | Technical Assistance Consultant
 -----------------------------------------
 
 Since 2023, I have been sharpening my skills in Python programming and version control systems, with a strong focus on automation and infrastructure management. I have hands-on experience working with Linux environments, SQL databases, and upgrading ERP software on client systems. I specialize in process automation using Ansible and Bash, and I am actively gaining practical experience in these tools. Additionally, I am expanding my expertise in CI/CD pipelines and containerization with Docker by working on projects to streamline software delivery and deployment.
@@ -24,7 +21,6 @@ Since 2023, I have been sharpening my skills in Python programming and version c
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="36" height="36" alt="CI/CD" /></a>
 </p>
 
 ### Socials
